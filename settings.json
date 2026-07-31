@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "speedy2346MC.aternos.me:19503",
+    "ip": "speedy2346MC.aternos.me",
     "port": 19503,
     "version": "",
     "try-creative": false
